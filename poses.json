@@ -36,16 +36,11 @@
   },
   {
     "id": "W8",
-    "imageUrl": "https://res.cloudinary.com/dk29gxukp/image/upload/q_auto/f_auto/v1777601962/LIF00295_sqnnoa.jpg",
-    "category": "Wedding"
-  },
-  {
-    "id": "W9",
     "imageUrl": "https://res.cloudinary.com/dk29gxukp/image/upload/q_auto/f_auto/v1777612547/DSC04629_wvh49q.jpg",
     "category": "Wedding"
   },
   {
-    "id": "W10",
+    "id": "W9",
     "imageUrl": "https://res.cloudinary.com/dk29gxukp/image/upload/q_auto/f_auto/v1777612545/DSC04542_vaw49q.jpg",
     "category": "Wedding"
   }
